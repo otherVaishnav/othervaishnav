@@ -1,4 +1,4 @@
-<h3 align="left">Hey there👋! My name Vaishnav  and I'm a Full Stack Web Developer.</h3>
+<h2 align="left">Hey there👋! My name Vaishnav  and I'm a Full Stack Web Developer.</h2>
 
 ###
 
@@ -10,15 +10,17 @@
 </div>
 
 ###
-
+<!--
 <br clear="both">
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/110933531?v=4"  />
 
 ###
+-->
+
 
 <div align="left">
-  <h3>Tech Stack  </h3>
+  <h2>Tech Stack  </h2>
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
@@ -47,6 +49,7 @@
 ###
 
 <div align="left">  
+  <h2>Social Handles </h2>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="linkedin.com/in/vaishnavpalve" />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  href="instagram.com/palve_vaishnav" />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
