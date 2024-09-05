@@ -21,6 +21,8 @@
 
 <div align="left">
   <h2>Tech Stack  </h2>
+  <img src="https://cdn.simpleicons.org/nextjs/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
