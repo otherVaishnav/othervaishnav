@@ -1,6 +1,8 @@
-<h2 align="left">Hey there👋! My name Vaishnav  and I'm a Full Stack Web Developer. </h2>
-
-###
+## Hey there👋!
+###  I'm a Full Stack Web Developer
+#### coding and upskilling is basically what I do.
+---
+## Github stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palvevaishnav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -17,47 +19,62 @@
 
 ###
 -->
-
-
-<div align="left">
-  <h2>Tech Stack  </h2>
-  <img src="https://cdn.simpleicons.org/nextjs/47A248" height="30" alt="mongodb logo"  />
+## Tech Stacks
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(50px, 1fr); gap: 12px;padding:6px;">
+  <!-- Top  -->
+<!--   <h5>Current Stack </h5>
+  <br /> -->
+  <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="30" alt="mongodb logo" style="padding:12px" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" height="30" alt="mongodb logo"  style="padding:12px"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" height="30" alt="postman logo" style="padding:12px"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <br />
+  <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" height="30" alt="mongodb logo" style="padding:12px"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="padding:12px"   />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" style="padding:12px"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" style="padding:12px"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <br />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo" style="padding:12px"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" style="padding:12px"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" height="30" alt="postgresql logo" style="padding:12px"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://img.icons8.com/?size=100&id=YKKmRFS8Utmm&format=png&color=000000" height="30" alt="mongodb logo" style="padding:12px"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <br />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" style="padding:12px"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" style="padding:12px"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="padding:12px"  />
+  <img width="12" />
+  <br />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" style="padding:12px"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" alt="postman logo" style="padding:12px"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png" height="30" alt="postman logo" style="padding:12px"  />
+  <img width="12" />
 </div>
 
 ###
 
-<div align="left">  
+<div align="center">  
   <h2>Social Handles </h2>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="linkedin.com/in/vaishnavpalve" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  href="instagram.com/palve_vaishnav" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://linkedin.com/in/vaishnavpalve">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/palve_vaishnav">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <h5>Let's Connect and discuss ideas.</h5>
 </div>
 
 ###
