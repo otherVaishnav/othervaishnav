@@ -1,9 +1,5 @@
-## Hey there👋!
-###  I'm a Full Stack Web Developer
-#### coding and upskilling is basically what I do.
----
+###  A Full Stack Web Developer
 ## Github stats
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palvevaishnav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
@@ -11,19 +7,8 @@
   
 </div>
 
-###
-<!--
-<br clear="both">
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/110933531?v=4"  />
-
-###
--->
-## Tech Stacks
+## Stacks
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(50px, 1fr); gap: 12px;padding:6px;">
-  <!-- Top  -->
-<!--   <h5>Current Stack </h5>
-  <br /> -->
   <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="30" alt="mongodb logo" style="padding:12px" />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" height="30" alt="mongodb logo"  style="padding:12px"  />
