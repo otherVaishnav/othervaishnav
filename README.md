@@ -7,7 +7,7 @@
   
 </div>
 
-## Stacks
+## Stack
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(50px, 1fr); gap: 12px;padding:6px;">
   <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" height="30" alt="mongodb logo" style="padding:12px" />
   <img width="12" />
