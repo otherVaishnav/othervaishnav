@@ -65,6 +65,8 @@
 ###
 
 <br clear="both">
+<img src="https://komarev.com/ghpvc/?username=palvevaishnav&label=Profile%20views&color=0e75b6&style=flat" alt="palvevaishnav" />
+
 <!--
 <img src="https://raw.githubusercontent.com/palvevaishnav/palvevaishnav/output/snake.svg" alt="Snake animation" />
 -->
