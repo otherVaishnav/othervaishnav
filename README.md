@@ -1,9 +1,9 @@
 ###  A Full Stack Developer
 ## Github stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palvevaishnav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=othervaishnav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=palvevaishnav&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=palvevaishnav&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&prs_merged&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=othervaishnav&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&prs_merged&hide_border=false" height="150" alt="stats graph"  />
   
 </div>
 
